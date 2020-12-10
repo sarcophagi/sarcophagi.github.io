@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://sarcophagi.github.io/
+url: sarcophagi.github.io
 date_format: "ordinal"
 title: 山童负心汉
 subtitle: "终生役役而不见成功，苶然疲役而不知所向"
